@@ -8,14 +8,14 @@ let val = 0;
 
 const sliderArray = [
     {
-        img: "/images/image-tanya.jpg",
+        img: "./images/image-tanya.jpg",
         alt: "Tanya",
         informacao: "“ I’ve been interested in coding for a while but never taken the jump, until now.I couldn’t recommend this course enough. I’m now in the job of my dreams and so excited about the future. ”",
         nome: "Tanya Sinclair",
         emprego: "UX Engineer"
     },
     {
-        img: "/images/image-john.jpg",
+        img: "./images/image-john.jpg",
         alt: "John",
         informacao: "“ If you want to lay the best foundation possible I’d recommend taking this course. The depth the instructors go into is incredible. I now feel so confident about starting up as a professional developer. ”",
         nome: "John Tarkpor",

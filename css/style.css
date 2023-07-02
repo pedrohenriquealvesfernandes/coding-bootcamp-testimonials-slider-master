@@ -14,7 +14,7 @@
 }
 
 body{
-    background-image: url("/images/pattern-bg.svg"), url("/images/pattern-curve.svg"), url("/images/pattern-quotes.svg");
+    background-image: url("../images/pattern-bg.svg"), url("../images/pattern-curve.svg"), url("../images/pattern-quotes.svg");
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: center 25px, left bottom, center 375px;
     background-size: 330px, 300px, 60px;
@@ -84,7 +84,7 @@ main{
 @media screen and (min-width:1440px) {
 
     body{
-        background-image: url("/images/pattern-bg.svg"), url("/images/pattern-curve.svg"), url("/images/pattern-quotes.svg");
+        background-image: url("../images/pattern-bg.svg"), url("../images/pattern-curve.svg"), url("../images/pattern-quotes.svg");
         background-repeat: no-repeat, no-repeat, no-repeat;
         background-position: 785px 70px, left bottom, 300px 270px;
         background-size: 600px, 450px, 100px;

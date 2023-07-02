@@ -28,4 +28,4 @@ Projeto <strong>Testimonial Slider Master</strong> disponibilizado por [Frontend
 LinkedIn</a><br><br>
 
 # **Disponível**
-Clique <a href="https://pedrohenriquealvesfernandes.github.io/interactive-card/" style="color: cyan" target="_blank"><strong>AQUI</strong></a> para acessar a projeto em funcionamento.
+Clique <a href="https://pedrohenriquealvesfernandes.github.io/coding-bootcamp-testimonials-slider-master/" style="color: cyan" target="_blank"><strong>AQUI</strong></a> para acessar a projeto em funcionamento.
